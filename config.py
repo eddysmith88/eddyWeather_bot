@@ -1,3 +1,3 @@
-tg_token = '6763846815:AAH7ALZLiNsSEG3mPsvjl4MxAmTL-FI1ev8'
+tg_token = 'TELEGRAM API KEY'
 
-open_weather_token = '77f96e1c4602e67294b1b1a3777f457f'
+open_weather_token = 'OPENWEATHER API KEY'
